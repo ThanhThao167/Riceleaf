@@ -13,3 +13,4 @@ faiss-cpu
 sentence-transformers
 deep-translator
 openai==1.40.6
+httpx==0.27.2
