@@ -12,3 +12,4 @@ python-multipart
 faiss-cpu
 sentence-transformers
 deep-translator
+openai==1.40.6
